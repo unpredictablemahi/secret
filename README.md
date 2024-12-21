@@ -11,7 +11,7 @@ cd secret
 
 
 ```bash
-pip install web3 colorama
+  pip install web3 eth_account
 ```
 
 Edit file :- (with your private key and address )
