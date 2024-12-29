@@ -21,5 +21,5 @@ nano keys_and_addresses.py
 run bot:-
 
  ```bash
-python3 t3rn.py
+python3 bot.py
 ```
