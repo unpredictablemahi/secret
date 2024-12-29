@@ -11,7 +11,7 @@ cd secret
 
 
 ```bash
-  pip install web3 eth_account
+  pip install web3==6.20.1 eth_account
 ```
 
 Edit file :- (with your private key and address )
