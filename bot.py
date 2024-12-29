@@ -95,7 +95,7 @@ def send_bridge_transaction(web3, account, my_address, data, network_name):
         return None
 
     try:
-        tx_hash = web3.eth.send_rawTransaction(signed_txn.rawTransaction)
+        tx_hash = web3.eth.send_raw_transaction(signed_txn.rawTransaction)
         tx_receipt = web3.eth.wait_for_transaction_receipt(tx_hash)
 
         balance = web3.eth.get_balance(my_address)
