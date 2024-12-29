@@ -22,12 +22,10 @@ ascii_art = """
 
 \033[38;5;214m
 
-  K   K  OOO  N   N TTTTT L       III  JJJ   OOO
-  K  K  O   O NN  N   T   L        I    J   O   O
-  KKK   O   O N N N   T   L        I    J   O   O
-  K  K  O   O N  NN   T   L        I    J   O   O
-  K   K  OOO  N   N   T   LLLLL   III  JJJ   OOO
-
+  M   A   D   E       B   Y       R   E   V   E   R   B
+  M   A   D   E       B   Y       R   E   V   E   R   B
+  M   A   D   E       B   Y       R   E   V   E   R   B
+  
 \033[0m
 """
 
