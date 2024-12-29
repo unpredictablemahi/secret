@@ -22,10 +22,10 @@ ascii_art = """
 
 \033[38;5;214m
 
-  M   A   D   E       B   Y       R   E   V   E   R   B
-  M   A   D   E       B   Y       R   E   V   E   R   B
-  M   A   D   E       B   Y       R   E   V   E   R   B
-  
+        M   A   D   E       B   Y       R   E   V   E   R   B
+        M   A   D   E       B   Y       R   E   V   E   R   B
+        M   A   D   E       B   Y       R   E   V   E   R   B
+
 \033[0m
 """
 
@@ -235,4 +235,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
