@@ -23,3 +23,13 @@ run bot:-
  ```bash
 python3 bot.py
 ```
+
+IF BRIDGE DOESN'T WORK OR POINTS AREN'T BEING ADDED DO THIS -----
+Edit the file 'data_bridge.py'
+
+using ```bash 
+nano data_bridge.py
+```
+
+ 
+
