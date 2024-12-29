@@ -27,9 +27,12 @@ python3 bot.py
 IF BRIDGE DOESN'T WORK OR POINTS AREN'T BEING ADDED DO THIS -----
 Edit the file 'data_bridge.py'
 
-using ```bash 
+using 
+```bash 
 nano data_bridge.py
 ```
+and put data starting with 0x56.....
+in "OP - BLAST" and "BLAST-OP" 
 
- 
+you get these data by doing manual trxns.. 
 
